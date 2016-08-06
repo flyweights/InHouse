@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.example.com/image.57×57.png</string>
+					<string>https://raw.githubusercontent.com/flyweights/InHouse/master/image.57%C3%9757.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.example.com/image.512×512.jpg</string>
+					<string>https://raw.githubusercontent.com/flyweights/InHouse/master/image.512%C3%97512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
